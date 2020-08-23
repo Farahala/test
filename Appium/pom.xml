@@ -23,6 +23,12 @@
     <artifactId>commons-lang3</artifactId>
     <version>3.4</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/io.appium/java-client -->
+<dependency>
+    <groupId>io.appium</groupId>
+    <artifactId>java-client</artifactId>
+    <version>7.3.0</version>
+</dependency>
 
   </dependencies>
 </project>

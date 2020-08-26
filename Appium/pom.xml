@@ -5,7 +5,14 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>BroswerstackTest</name>
   <dependencies>
-  
+  <!-- https://mvnrepository.com/artifact/com.browserstack/automate-build-plugins-aggregator -->
+<dependency>
+    <groupId>com.browserstack</groupId>
+    <artifactId>automate-build-plugins-aggregator</artifactId>
+    <version>1.1.1</version>
+    <type>pom</type>
+</dependency>
+
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-support -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>

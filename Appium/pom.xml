@@ -5,11 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>BroswerstackTest</name>
   <dependencies>
-   <dependency>
-    <groupId>com.browserstack</groupId>
-    <artifactId>automate-maven-plugin</artifactId>
-    <version>1.0.0</version>
-</dependency>
+  
   <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-support -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
